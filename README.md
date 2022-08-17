@@ -11,6 +11,8 @@ Unfiltered is a web application which lists unedited photographs publically.
 This application allows people to share their stories freely through unedited pictures.
 
 Front-End technologies used - HTML, CSS
+<br>
 Back-End Technologies used - PHP, mySQL
+
 
 </p>
